@@ -1,0 +1,68 @@
+body {
+    background-image:url(pattern_scales-2_1_4_0-0_55_1__0d1b2a_e0e1dd.png);
+
+    font-family: 'Open Sans', sans-serif;
+}
+
+#create-edit {
+    height: 100%;
+}
+
+.content {
+    background-color: #1A1A1B;
+    color: #D6D9DB;
+    border-radius: 20px;
+}
+
+.content ul {
+    list-style: none;
+}
+
+.content a {
+    color: #D6D9DB;
+}
+
+.content a:hover {
+    color: #88939b;
+}
+
+.pt-serif {
+    font-family: 'PT Serif', serif;
+}
+
+footer a {
+    color: #D6D9DB !important;
+}
+
+.button-rad {
+    border-radius: 30px;
+}
+
+.dark-form {
+    background-color: #1A1A1B;
+    color: white !important;
+}
+.dark-form::placeholder {
+    color: #D7DADC;
+}
+.dark-form:focus {
+    background-color: #1A1A1B;
+    border-color: #88939b;
+}
+
+.navbar-brand{
+    padding: 0.5em;
+    max-width: fit-content;
+    max-height: fit-content;
+    border-end-end-radius: 30%;
+    border-top-left-radius: 30%;
+    font-style: bold;
+
+}
+
+.navbar{
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
