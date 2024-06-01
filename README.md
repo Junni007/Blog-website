@@ -1,3 +1,2 @@
 # Blog-website
-![image](https://github.com/Junni007/Blog-website/assets/147623950/39fccfc2-a5e0-47ed-89b9-ad615d838560)
- 
+![Screenshot 2024-05-15 132443](https://github.com/Junni007/Blog-website/assets/147623950/e381941d-7b81-4822-b768-e0db2d42d25d)
